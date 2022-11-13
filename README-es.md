@@ -20,6 +20,15 @@ Deberá descargar e instalar la aplicación ``git-it-electron``:
 Una vez que haya terminado el git-it lab, continúe con el cuestionario que encontrará en [w3schools git quiz](https://www.w3schools.com/git/git_quiz.asp)
 
 > Por favor, añada una captura de pantalla a este repositorio que muestre sus resultados después de terminar el cuestionario.
+
+## Para principiantes 
+
+En inglés:
+
+[git cheat sheet](https://www.freecodecamp.org/news/git-cheat-sheet/)
+
+[A Beginner's Guide to Git](https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/)
+
 ___
 
 # :wave: Fundamentos de GitHub
