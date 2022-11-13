@@ -22,6 +22,11 @@ You will need to download and install the ``git-it-electron`` app:
 Once you finish the git-it lab, please proceed with the quiz you will find in [w3schools git quiz](https://www.w3schools.com/git/git_quiz.asp)
 
 > Please add a screen cap to this repo showing your results after finishing the quiz.
+
+## For beginners
+
+[git cheat sheet](https://www.freecodecamp.org/news/git-cheat-sheet/)
+[A Beginner's Guide to Git](https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/)
 ___
 
 # :wave: The Basics of GitHub 
