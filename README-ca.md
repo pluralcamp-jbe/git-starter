@@ -1,6 +1,27 @@
 > [English version](README.md) | [Versión en castellano](README-es.md)
 ___
 
+## Laboratori git-it
+
+Per començar a aprendre git, podeu començar fent el laboratori [git-it](https://github.com/jlord/git-it-electron). Aquest laboratori té una col·lecció d'11 reptes que heu de resoldre. Aquests reptes s'expliquen [aquí] (http://jlord.us/git-it/) i també a la pròpia aplicació (en diferents idiomes).
+
+Haureu de descarregar i instal·lar l'aplicació ``git-it-electron``:
+
+[baixa git-it per a Linux](https://drive.google.com/uc?id=1EYkA_TpGpBnhHsLKX-3ttSyS4xguCWU0&export=download)
+
+[descarregueu git-it per a Windows](https://github.com/jlord/git-it-electron/releases/download/4.4.0/Git-it-Win-ia32.zip)
+
+[descarregueu git-it per a Mac](https://github.com/jlord/git-it-electron/releases/download/4.4.0/Git-it-Mac-x64.zip)
+
+> Si us plau, afegiu una captura de pantalla a aquest repo que mostri els reptes finalitzats.
+
+## test w3schools
+
+Un cop hàgiu acabat el git-it lab, continueu amb el qüestionari que trobareu a [w3schools git quiz](https://www.w3schools.com/git/git_quiz.asp)
+
+> Si us plau, afegiu una captura de pantalla a aquest repositori que mostri els vostres resultats després d'acabar el qüestionari.
+___
+
 # :wave: Fonaments de GitHub 
 
 ## 🤓 Visió general del curs i resultats d'aprenentatge 
