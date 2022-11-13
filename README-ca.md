@@ -27,6 +27,7 @@ ___
 En anglès:
 
 [git cheat sheet](https://www.freecodecamp.org/news/git-cheat-sheet/)
+
 [A Beginner's Guide to Git](https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/)
 
 # :wave: Fonaments de GitHub 
