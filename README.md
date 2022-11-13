@@ -1,6 +1,5 @@
-[Versió en català](README-ca.md)
-
-[Versión en castellano](README-es.md)
+> [Versió en català](README-ca.md) | [Versión en castellano](README-es.md)
+___
 
 # :wave: The Basics of GitHub 
 
