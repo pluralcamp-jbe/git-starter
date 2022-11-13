@@ -1,6 +1,29 @@
 > [Versió en català](README-ca.md) | [Versión en castellano](README-es.md)
 ___
 
+# :wave: The Basics of git 
+
+## git-it laboratory
+
+To start learning git, you may proceed in doing the [git-it](https://github.com/jlord/git-it-electron) lab. This lab has a collection of 11 challenges for you to solve. These challenges are explained [here](http://jlord.us/git-it/) and in the app itself too (in different languages).
+
+You will need to download and install the ``git-it-electron`` app:
+
+[download git-it for linux](https://drive.google.com/uc?id=1EYkA_TpGpBnhHsLKX-3ttSyS4xguCWU0&export=download)
+
+[download git-it for windows](https://github.com/jlord/git-it-electron/releases/download/4.4.0/Git-it-Win-ia32.zip)
+
+[download git-it for mac](https://github.com/jlord/git-it-electron/releases/download/4.4.0/Git-it-Mac-x64.zip)
+
+> Please add a screen cap to this repo showing challenges finished.
+
+## w3schools quiz
+
+Once you finish the git-it lab, please proceed with the quiz you will find in [w3schools git quiz](https://www.w3schools.com/git/git_quiz.asp)
+
+> Please add a screen cap to this repo showing your results after finishing the quiz.
+___
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
