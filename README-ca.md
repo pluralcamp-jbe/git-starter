@@ -22,6 +22,13 @@ Un cop hàgiu acabat el git-it lab, continueu amb el qüestionari que trobareu a
 > Si us plau, afegiu una captura de pantalla a aquest repositori que mostri els vostres resultats després d'acabar el qüestionari.
 ___
 
+## Per a principiants 
+
+En anglès:
+
+[git cheat sheet](https://www.freecodecamp.org/news/git-cheat-sheet/)
+[A Beginner's Guide to Git](https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/)
+
 # :wave: Fonaments de GitHub 
 
 ## 🤓 Visió general del curs i resultats d'aprenentatge 
