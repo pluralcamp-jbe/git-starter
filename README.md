@@ -26,6 +26,7 @@ Once you finish the git-it lab, please proceed with the quiz you will find in [w
 ## For beginners
 
 [git cheat sheet](https://www.freecodecamp.org/news/git-cheat-sheet/)
+
 [A Beginner's Guide to Git](https://www.freecodecamp.org/news/what-is-git-learn-git-version-control/)
 ___
 
