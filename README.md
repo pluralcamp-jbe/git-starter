@@ -1,3 +1,7 @@
+[Versió en català](README-ca.md)
+
+[Versión en castellano](README-es.md)
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
